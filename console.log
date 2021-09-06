@@ -19,3 +19,45 @@
 [06/09/2021, 17:22:18] - [INFO] - Je suis prêt !
 [06/09/2021, 18:53:03] - [INFO] - Je suis prêt !
 [06/09/2021, 19:47:41] - [INFO] - Je suis prêt !
+[06/09/2021, 22:55:08] - [INFO] - Je suis prêt !
+[06/09/2021, 22:55:08] - [INFO] - Bot identifié en tant que TacheBot#9614! (884340737452429313)
+[06/09/2021, 23:09:38] - [INFO] - Bot identifié en tant que TacheBot#9614! (884340737452429313)
+[06/09/2021, 23:11:51] - [INFO] - Bot identifié en tant que TacheBot#9614! (884340737452429313)
+[06/09/2021, 23:44:00] - [INFO] - Bot identifié en tant que TacheBot#9614! (884340737452429313)
+[06/09/2021, 23:44:43] - [ERROR] - Role 'Modérateur' non trouvé sur ce serveur.
+[06/09/2021, 23:44:43] - [ERROR] - eventFunction.run is not a function
+[06/09/2021, 23:45:33] - [INFO] - Bot identifié en tant que TacheBot#9614! (884340737452429313)
+[06/09/2021, 23:45:42] - [INFO] - Role 'modo' ajouté sur Salons textuels.
+[06/09/2021, 23:45:42] - [INFO] - Role 'modo' ajouté sur Salons vocaux.
+[06/09/2021, 23:45:42] - [INFO] - Role 'modo' ajouté sur général.
+[06/09/2021, 23:45:42] - [INFO] - Role 'modo' ajouté sur Général.
+[06/09/2021, 23:45:42] - [INFO] - Role 'modo' ajouté sur canal-katax-hawk-sexe.
+[06/09/2021, 23:45:42] - [INFO] - Role 'modo' ajouté sur canal-saku-foliole-sexe.
+[06/09/2021, 23:45:42] - [INFO] - Role 'modo' ajouté sur amuse-bot.
+[06/09/2021, 23:45:42] - [ERROR] - eventFunction.run is not a function
+[06/09/2021, 23:45:42] - [ERROR] - eventFunction.run is not a function
+[06/09/2021, 23:45:42] - [ERROR] - TypeError: eventFunction.run is not a function
+    at BotClient.<anonymous> (C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\bot.js:28:77)
+    at BotClient.emit (events.js:388:22)
+    at MessageCreateAction.handle (C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:175:52
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async CommandDispatcher.handleMessage (C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\node_modules\discord.js-commando\src\dispatcher.js:144:19)
+[06/09/2021, 23:47:44] - [ERROR] - Group "admin" is not registered.
+[06/09/2021, 23:48:17] - [INFO] - Bot identifié en tant que TacheBot#9614! (884340737452429313)
+[06/09/2021, 23:48:31] - [INFO] - Role 'modo' ajouté sur Salons textuels.
+[06/09/2021, 23:48:31] - [INFO] - Role 'modo' ajouté sur Salons vocaux.
+[06/09/2021, 23:48:31] - [INFO] - Role 'modo' ajouté sur général.
+[06/09/2021, 23:48:31] - [INFO] - Role 'modo' ajouté sur Général.
+[06/09/2021, 23:48:31] - [INFO] - Role 'modo' ajouté sur canal-katax-hawk-sexe.
+[06/09/2021, 23:48:31] - [INFO] - Role 'modo' ajouté sur canal-saku-foliole-sexe.
+[06/09/2021, 23:48:31] - [INFO] - Role 'modo' ajouté sur amuse-bot.
+[06/09/2021, 23:48:31] - [ERROR] - eventFunction.run is not a function
+[06/09/2021, 23:48:32] - [ERROR] - eventFunction.run is not a function
+[06/09/2021, 23:48:32] - [ERROR] - TypeError: eventFunction.run is not a function
+    at BotClient.<anonymous> (C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\bot.js:28:77)
+    at BotClient.emit (events.js:388:22)
+    at MessageCreateAction.handle (C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:175:52
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async CommandDispatcher.handleMessage (C:\Users\quent\Desktop\Bot discord\DiscodEssaieBot\node_modules\discord.js-commando\src\dispatcher.js:144:19)
